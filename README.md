@@ -2,8 +2,6 @@
 
 ## Exercise: CSS Display Property
 
-**Instructions**:
-
 **When**: Modelling Boxes / Display
 
 **Time**: 10 Minutes
@@ -12,7 +10,7 @@
 
 **Solution**: [Solution](https://github.com/DigitalCareerInstitute/uib-boxmodel-display/edit/solution)
 
-
+**Instructions**:
 1. Create a stylesheet `solution.css` and link it to the `index.html` file.
 2. Add styling in order to make the page resemble the mockup image below.
 
