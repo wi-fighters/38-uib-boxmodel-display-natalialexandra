@@ -8,3 +8,7 @@
 2. Add styling in order to make the page resemble the mockup image below.
 
 ![mockup-image](solution.png)
+
+**Link**: [Exercise](https://github.com/DigitalCareerInstitute/uib-boxmodel-display/edit/master)
+
+**Solution**: [Solution](https://github.com/DigitalCareerInstitute/uib-boxmodel-display/edit/solution)
