@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.fixme1 {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 3rem;
+}
+
+.fixme2 {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 3rem;
+}
+
+.fixme3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
